@@ -1,0 +1,1 @@
+{"languageJson": false, "gameId": "22-Seconds-Online", "version": 1.0, "language": "en", "domainAllowed": [], "preloader": "Preloader", "frameRate": 60, "height": 800, "width": 480, "rotateImg": "", "loading": "res/logo.png", "project_type": "javascript", "id": "gameCanvas", "debugMode": 1, "renderMode": 0, "showFPS": false, "landscape": false}
